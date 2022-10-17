@@ -1,0 +1,4 @@
+Resolusi Feri
+- Konsisten belajar GIT 2x seminggu
+- membuat platform
+- membuat website
